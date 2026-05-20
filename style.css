@@ -297,6 +297,7 @@ section{
 .project-box p{
   margin:8px 0 12px;
   font-size:14px;
+  font-weight: bold;
   color:#cbd5f5;
 }
 
@@ -494,4 +495,3 @@ section{
     font-size:18px;
   }
 }
-
